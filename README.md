@@ -1,7 +1,7 @@
 # **Netflix**
 ## ¿Que es?
 ### Netflix es una plataforma de transmisión en línea que ofrece una amplia variedad de contenido, incluyendo películas, series de televisión, documentales y programas originales de Netflix.
-![alt text](https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png)
+![alt text](https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png){with=100}
 ## ¿Como se descarga en dispositivos moviles?
 ### Para descargar la aplicación en dispositivos moviles tendras que abrir la App Store o Google play y buscar netflix y ya podras descargarlo
 ## ¿Como utilizar netflix en ordenadores, televisores o dispositivos moviles?
