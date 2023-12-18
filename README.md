@@ -44,13 +44,22 @@ Netflix utiliza algoritmos avanzados para analizar el historial de visualizació
 #### **·Funcionalidad de Descarga:**
 Netflix permite a los usuarios descargar ciertos programas y películas para ver sin conexión. Esto es útil para aquellos que desean ver contenido cuando no tienen acceso a una conexión a Internet.
 
+## **6. Impacto cultural y global**
+Netflix ha influido en la cultura popular, introduciendo términos como "binge-watching" para describir la práctica de ver múltiples episodios seguidos. Con su disponibilidad en casi todos los países, Netflix ha contribuido a la globalización del entretenimiento.
+
+## **7. Competencia en la industria**
+Netflix compite con otros servicios de transmisión, como Hulu, Amazon Prime Video y Disney+. La competencia ha llevado a una mayor inversión en contenido original y ha impulsado mejoras continuas en la plataforma.
+
+<img src="https://www.lavanguardia.com/andro4all/hero/2022/02/trackmysubs-portada.jpg?width=1200"
+width=3400>
+
 ## Top series y peliculas mas vistas
 
 ### Top 10 Series Más Vistas en Netflix
 
 | Posición | Serie                    | Género           | Año de Estreno | País de Producción |
 |----------|--------------------------|------------------|-----------------|--------------------|
-| 1        | Stranger Things          | Ciencia Ficción | 2016            | Estados Unidos     |
+| 1        | [Stranger Things]()          | Ciencia Ficción | 2016            | Estados Unidos     |
 | 2        | The Witcher              | Fantasía         | 2019            | Estados Unidos     |
 | 3        | Money Heist (La Casa de Papel) | Drama/Thriller | 2017         | España             |
 | 4        | Narcos                   | Crimen/Drama     | 2015            | Estados Unidos/Colombia |
@@ -65,7 +74,7 @@ Netflix permite a los usuarios descargar ciertos programas y películas para ver
 
 | Posición | Película                 | Género           | Año de Estreno | País de Producción |
 |----------|--------------------------|------------------|-----------------|--------------------|
-| 1        | Bird Box                 | Suspenso/Drama   | 2018            | Estados Unidos     |
+| 1        | [Bird Box](https://pelisforte.nu/pelicula/bird-box-barcelona-2023-1691684657)                 | Suspenso/Drama   | 2018            | Estados Unidos     |
 | 2        | Extraction               | Acción/Thriller  | 2020            | Estados Unidos     |
 | 3        | The Irishman             | Crimen/Drama     | 2019            | Estados Unidos     |
 | 4        | To All the Boys I've Loved Before | Romance    | 2018            | Estados Unidos     |
