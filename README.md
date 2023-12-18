@@ -12,10 +12,10 @@ width="50">
 #### Para acceder al contenido de Netflix, los usuarios deben suscribirse y pagar una tarifa mensual. Hay diferentes planes disponibles con opciones de resolución y número de dispositivos permitidos.
 Suscripción | Precio al mes | Precio al año | calidad | dispositivos conectados
 ----------- | ------ | -------- | ------- | -----------------------
-Estandar con anuncios | 5,49€ | No tiene |
-Básico | 7,99€ | 42€
-Estandar | 12,99€ | 89,90 |
-Premium | 17,99€ | 119,90 |
+Estandar con anuncios | 5,49€ | No tiene | estandar(SD) | 1 dispositivo
+Básico | 7,99€ | 42€ | alta definición(HD) | 1 dispositivo
+Estandar | 12,99€ | 89,90 | alta definición(HD) | 2 dispositivos
+Premium | 17,99€ | 119,90 | Ultra Alta Definición (Ultra HD o 4K) | 4 dispositivos
 
 2. ## Biblioteca de Contenido:
 ### **·Peliculas y Programas de Televisión:**
