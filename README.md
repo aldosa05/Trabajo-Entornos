@@ -59,31 +59,31 @@ width=3400>
 
 | Posición | Serie                    | Género           | Año de Estreno | País de Producción |
 |----------|--------------------------|------------------|-----------------|--------------------|
-| 1        | [Stranger Things]()          | Ciencia Ficción | 2016            | Estados Unidos     |
-| 2        | The Witcher              | Fantasía         | 2019            | Estados Unidos     |
-| 3        | Money Heist (La Casa de Papel) | Drama/Thriller | 2017         | España             |
-| 4        | Narcos                   | Crimen/Drama     | 2015            | Estados Unidos/Colombia |
-| 5        | Dark                     | Ciencia Ficción | 2017            | Alemania           |
-| 6        | The Crown                | Drama/Historia   | 2016            | Reino Unido        |
-| 7        | Ozark                    | Crimen/Drama     | 2017            | Estados Unidos     |
-| 8        | Black Mirror             | Ciencia Ficción/Thriller | 2011 | Reino Unido |
-| 9        | Lucifer                  | Crimen/Fantasía  | 2016            | Estados Unidos     |
-| 10       | The Umbrella Academy     | Ciencia Ficción | 2019            | Estados Unidos     |
+| 1        | [Stranger Things](https://www.youtube.com/watch?v=x7Yq9MJUqjY)          | Ciencia Ficción | 2016            | Estados Unidos     |
+| 2        | [The Witcher](https://www.youtube.com/watch?v=ETY44yszyNc)              | Fantasía         | 2019            | Estados Unidos     |
+| 3        | [La Casa de Papel](https://www.youtube.com/watch?v=3y-6iaveY6c) | Drama/Thriller | 2017         | España             |
+| 4        | [Narcos](https://www.youtube.com/watch?v=xl8zdCY-abw)                   | Crimen/Drama     | 2015            | Estados Unidos/Colombia |
+| 5        | [Dark](https://www.youtube.com/watch?v=zmxw7NgsBH4)                     | Ciencia Ficción | 2017            | Alemania           |
+| 6        | [The Crown](https://www.youtube.com/watch?v=KQoYqvc0QVQ)                | Drama/Historia   | 2016            | Reino Unido        |
+| 7        | [Ozark](https://www.youtube.com/watch?v=3CefRpc-Rgo)                    | Crimen/Drama     | 2017            | Estados Unidos     |
+| 8        | [Black Mirror](https://www.youtube.com/watch?v=YgHc99YPNxY)             | Ciencia Ficción/Thriller | 2011 | Reino Unido |
+| 9        | [Lucifer](https://www.youtube.com/watch?v=DaxEHaUNLp8)                 | Crimen/Fantasía  | 2016            | Estados Unidos     |
+| 10       | [The Umbrella Academy](https://www.youtube.com/watch?v=KHucKOK-Vik)    | Ciencia Ficción | 2019            | Estados Unidos     |
 
 ### Top 10 Películas Más Vistas en Netflix
 
 | Posición | Película                 | Género           | Año de Estreno | País de Producción |
 |----------|--------------------------|------------------|-----------------|--------------------|
 | 1        | [Bird Box](https://pelisforte.nu/pelicula/bird-box-barcelona-2023-1691684657)                 | Suspenso/Drama   | 2018            | Estados Unidos     |
-| 2        | Extraction               | Acción/Thriller  | 2020            | Estados Unidos     |
-| 3        | The Irishman             | Crimen/Drama     | 2019            | Estados Unidos     |
-| 4        | To All the Boys I've Loved Before | Romance    | 2018            | Estados Unidos     |
-| 5        | 6 Underground            | Acción           | 2019            | Estados Unidos     |
-| 6        | Enola Holmes             | Aventura/Misterio | 2020           | Reino Unido        |
-| 7        | The Kissing Booth        | Comedia/Romance  | 2018            | Reino Unido        |
-| 8        | The Old Guard            | Acción/Fantasía  | 2020            | Estados Unidos     |
-| 9        | Murder Mystery           | Comedia/Crimen   | 2019            | Estados Unidos     |
-| 10       | Marriage Story           | Drama            | 2019            | Estados Unidos     |
+| 2        | [Extraction](https://pelisforte.nu/pelicula/extraction-2020-1643212158)               | Acción/Thriller  | 2020            | Estados Unidos     |
+| 3        | [The Irishman](https://pelisforte.nu/pelicula/el-irlandes-2019-1587651614)            | Crimen/Drama     | 2019            | Estados Unidos     |
+| 4        | [To All the Boys I've Loved Before] | Romance    | 2018            | Estados Unidos     |
+| 5        | [6 Underground](https://pelisforte.nu/pelicula/escuadron-6-2019-1599881176)           | Acción           | 2019            | Estados Unidos     |
+| 6        | [Enola Holmes](https://pelisforte.nu/pelicula/enola-holmes-2020-1601072212)            | Aventura/Misterio | 2020           | Reino Unido        |
+| 7        | [The Kissing Booth](https://pelisforte.nu/pelicula/el-stand-de-los-besos-1-2018-1630382411)       | Comedia/Romance  | 2018            | Reino Unido        |
+| 8        | [The Old Guard](https://pelisforte.nu/pelicula/la-vieja-guardia-2020-1595831725)          | Acción/Fantasía  | 2020            | Estados Unidos     |
+| 9        | [Murder Mystery](https://pelisforte.nu/pelicula/misterio-a-bordo-2019)         | Comedia/Crimen   | 2019            | Estados Unidos     |
+| 10       | [Marriage Story](https://pelisforte.nu/pelicula/historia-de-un-matrimonio-2019-1591681701)         | Drama            | 2019            | Estados Unidos     |
 
 ## Conclusiones
 Netflix ha transformado la forma en que las personas consumen entretenimiento, destacándose por su enfoque en la originalidad, la adaptación tecnológica y la expansión global. Su impacto cultural y su influencia en la industria del entretenimiento continúan evolucionando a medida que la plataforma sigue siendo una fuerza dominante en el mundo del streaming.
